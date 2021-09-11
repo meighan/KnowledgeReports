@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "file_exclude_patterns": [
+                "*.*-meta.xml", 
+                "*.sublime-project", 
+                "package.zip"
+            ], 
+            "path": "/Users/meighanbrodkey/Documents/workspaces//Summer17-20210910", 
+            "folder_exclude_patterns": [
+                ".templates"
+            ]
+        }
+    ]
+}

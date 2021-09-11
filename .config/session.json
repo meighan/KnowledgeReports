@@ -1,0 +1,24 @@
+{
+    "signature": "CshRYvfT1LpdefbOWFaFlSesWbOMBdGuk7NsOiC88wU=", 
+    "refresh_token": "5Aep8614XGwzVzzTO7p.sN_MmRoYt0jtOZtn1l9ZlBYkbdGnpsVrLsMbiBAVBC1atPha9sjU1NlHxCDqcLF7cmB", 
+    "user_id": "005B00000035jrBIAQ", 
+    "access_token": "00DB0000000IndC!AQoAQNmXnENKhokaiZbBab3ntxVJ2zLKo6NtDUTOm5PbQkbs2EsZ0LRyXiAWGxuIV8IeEQUgV97aQGy7P5Y2tV2D_2aFB5_V", 
+    "token_type": "Bearer", 
+    "partner_url": "https://snaily-17-dev-ed.my.salesforce.com/services/Soap/u/44.0", 
+    "instance_url": "https://snaily-17-dev-ed.my.salesforce.com", 
+    "session_id": "00DB0000000IndC!AQoAQNmXnENKhokaiZbBab3ntxVJ2zLKo6NtDUTOm5PbQkbs2EsZ0LRyXiAWGxuIV8IeEQUgV97aQGy7P5Y2tV2D_2aFB5_V", 
+    "id": "https://login.salesforce.com/id/00DB0000000IndCMAS/005B00000035jrBIAQ", 
+    "project name": "Summer17", 
+    "scope": "id api web full chatter_api visualforce refresh_token openid custom_permissions wave_api eclair_api", 
+    "issued_at": "1631335676252", 
+    "metadata_url": "https://snaily-17-dev-ed.my.salesforce.com/services/Soap/m/44.0", 
+    "success": true, 
+    "rest_url": "https://snaily-17-dev-ed.my.salesforce.com/services/data/v44.0", 
+    "headers": {
+        "Content-Type": "application/json; charset=UTF-8", 
+        "Authorization": "OAuth 00DB0000000IndC!AQoAQNmXnENKhokaiZbBab3ntxVJ2zLKo6NtDUTOm5PbQkbs2EsZ0LRyXiAWGxuIV8IeEQUgV97aQGy7P5Y2tV2D_2aFB5_V", 
+        "Accept": "application/json"
+    }, 
+    "apex_url": "https://snaily-17-dev-ed.my.salesforce.com/services/Soap/s/44.0", 
+    "time_stamp": "2021-09-10 21:47:57"
+}

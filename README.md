@@ -7,3 +7,4 @@ Salesforce Knowledge Reports
        src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
+Click to deploy to Salesforce

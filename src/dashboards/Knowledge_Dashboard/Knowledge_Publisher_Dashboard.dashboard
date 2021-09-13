@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Dashboard xmlns="http://soap.sforce.com/2006/04/metadata">
     <backgroundEndColor>#FFFFFF</backgroundEndColor>
     <backgroundFadeDirection>Diagonal</backgroundFadeDirection>
@@ -18,7 +17,7 @@
             <expandOthers>false</expandOthers>
             <header>Articles Associated to Cases</header>
             <legendPosition>Bottom</legendPosition>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKCaseAssociationArticle</report>
+            <report>APXSK_Knowledge_Reports/APXSKCaseAssociationArticle</report>
             <showPercentage>false</showPercentage>
             <showValues>true</showValues>
             <sortBy>RowLabelAscending</sortBy>
@@ -35,7 +34,7 @@
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKArticleCaseButPrivate</report>
+            <report>APXSK_Knowledge_Reports/APXSKArticleCaseButPrivate</report>
             <showPicturesOnTables>true</showPicturesOnTables>
             <sortBy>RowLabelDescending</sortBy>
         </components>
@@ -52,7 +51,7 @@
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSK_Case_Association_Article</report>
+            <report>APXSK_Knowledge_Reports/APXSK_Case_Association_Article</report>
             <showPicturesOnTables>true</showPicturesOnTables>
             <sortBy>RowLabelDescending</sortBy>
         </components>
@@ -69,7 +68,7 @@
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSK_Case_Association_Article</report>
+            <report>APXSK_Knowledge_Reports/APXSK_Case_Association_Article</report>
             <showPicturesOnTables>true</showPicturesOnTables>
             <sortBy>RowLabelAscending</sortBy>
         </components>
@@ -84,7 +83,7 @@
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKRecentlyKeywordSearch</report>
+            <report>APXSK_Knowledge_Reports/APXSKRecentlyKeywordSearch</report>
             <showPicturesOnTables>true</showPicturesOnTables>
             <sortBy>RowValueDescending</sortBy>
         </components>
@@ -99,7 +98,7 @@
             <expandOthers>false</expandOthers>
             <header>Keyword Search Comparison</header>
             <legendPosition>Right</legendPosition>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKKeywordSearchResult</report>
+            <report>APXSK_Knowledge_Reports/APXSKKeywordSearchResult</report>
             <showPercentage>false</showPercentage>
             <showValues>false</showValues>
             <sortBy>RowLabelAscending</sortBy>
@@ -116,7 +115,7 @@
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKKeywordNotFound</report>
+            <report>APXSK_Knowledge_Reports/APXSKKeywordNotFound</report>
             <showPicturesOnTables>true</showPicturesOnTables>
             <sortBy>RowValueDescending</sortBy>
         </components>
@@ -135,7 +134,7 @@
             <indicatorHighColor>#54C254</indicatorHighColor>
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSK_Article_Score_by_Channel</report>
+            <report>APXSK_Knowledge_Reports/APXSK_Article_Score_by_Channel</report>
             <showPercentage>true</showPercentage>
             <showRange>false</showRange>
             <showTotal>true</showTotal>
@@ -153,7 +152,7 @@
             <indicatorHighColor>#54C254</indicatorHighColor>
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKArticleRateInternalApp</report>
+            <report>APXSK_Knowledge_Reports/APXSKArticleRateInternalApp</report>
             <showPercentage>true</showPercentage>
             <showRange>false</showRange>
             <showTotal>true</showTotal>
@@ -171,7 +170,7 @@
             <indicatorHighColor>#54C254</indicatorHighColor>
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKArticleRatePartnerPortal</report>
+            <report>APXSK_Knowledge_Reports/APXSKArticleRatePartnerPortal</report>
             <showPercentage>true</showPercentage>
             <showRange>false</showRange>
             <showTotal>true</showTotal>
@@ -189,7 +188,7 @@
             <indicatorHighColor>#54C254</indicatorHighColor>
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKArticleRateCustomerPortal</report>
+            <report>APXSK_Knowledge_Reports/APXSKArticleRateCustomerPortal</report>
             <showPercentage>true</showPercentage>
             <showRange>false</showRange>
             <showTotal>true</showTotal>
@@ -208,7 +207,7 @@
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKArticleRateInternalApp</report>
+            <report>APXSK_Knowledge_Reports/APXSKArticleRateInternalApp</report>
             <showPicturesOnTables>true</showPicturesOnTables>
             <sortBy>RowValueAscending</sortBy>
         </components>
@@ -225,7 +224,7 @@
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKArticleRateCustomerPortal</report>
+            <report>APXSK_Knowledge_Reports/APXSKArticleRateCustomerPortal</report>
             <showPicturesOnTables>true</showPicturesOnTables>
             <sortBy>RowValueAscending</sortBy>
         </components>
@@ -242,7 +241,7 @@
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKArticleRatePartnerPortal</report>
+            <report>APXSK_Knowledge_Reports/APXSKArticleRatePartnerPortal</report>
             <showPicturesOnTables>true</showPicturesOnTables>
             <sortBy>RowValueAscending</sortBy>
         </components>
@@ -260,7 +259,7 @@
             <expandOthers>false</expandOthers>
             <header>Recently Updated Articles</header>
             <legendPosition>Bottom</legendPosition>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKArticlesPublishedChannel</report>
+            <report>APXSK_Knowledge_Reports/APXSKArticlesPublishedChannel</report>
             <showPercentage>false</showPercentage>
             <showValues>false</showValues>
             <sortBy>RowLabelAscending</sortBy>
@@ -277,7 +276,7 @@
             <expandOthers>false</expandOthers>
             <header>Search Activity for Last 30 Days</header>
             <legendPosition>Bottom</legendPosition>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKArticleSearchChannel</report>
+            <report>APXSK_Knowledge_Reports/APXSKArticleSearchChannel</report>
             <showPercentage>false</showPercentage>
             <showValues>false</showValues>
             <sortBy>RowLabelAscending</sortBy>
@@ -294,7 +293,7 @@
             <expandOthers>false</expandOthers>
             <header>Article Views During Last 30 Days</header>
             <legendPosition>Bottom</legendPosition>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKArticleViewChannel</report>
+            <report>APXSK_Knowledge_Reports/APXSKArticleViewChannel</report>
             <showPercentage>false</showPercentage>
             <showValues>false</showValues>
             <sortBy>RowLabelAscending</sortBy>
@@ -311,7 +310,7 @@
             <expandOthers>false</expandOthers>
             <header>Vote Activity for Last 30 Days</header>
             <legendPosition>Bottom</legendPosition>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKVoteActivity</report>
+            <report>APXSK_Knowledge_Reports/APXSKVoteActivity</report>
             <showPercentage>false</showPercentage>
             <showValues>false</showValues>
             <sortBy>RowLabelAscending</sortBy>
@@ -328,7 +327,7 @@
             <indicatorLowColor>#C25454</indicatorLowColor>
             <indicatorMiddleColor>#C2C254</indicatorMiddleColor>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKArticle_Viewed</report>
+            <report>APXSK_Knowledge_Reports/APXSKArticle_Viewed</report>
             <showPicturesOnTables>true</showPicturesOnTables>
             <sortBy>RowValueDescending</sortBy>
         </components>

@@ -19,7 +19,7 @@
             <header>Author Ranked by Average Rating</header>
             <legendPosition>Bottom</legendPosition>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKArticleRateAuthor</report>
+            <report>APXSK_Knowledge_Reports/SK__APXSKArticleRateAuthor</report>
             <showPercentage>false</showPercentage>
             <showValues>false</showValues>
             <sortBy>RowValueDescending</sortBy>
@@ -37,7 +37,7 @@
             <header>Author Ranked by Closed Cases</header>
             <legendPosition>Bottom</legendPosition>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKCaseAssociationByAuthor</report>
+            <report>APXSK_Knowledge_Reports/APXSKCaseAssociationByAuthor</report>
             <showPercentage>false</showPercentage>
             <showValues>false</showValues>
             <sortBy>RowValueDescending</sortBy>
@@ -58,7 +58,7 @@
             <header>Author Ranked by Number Created</header>
             <legendPosition>Bottom</legendPosition>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKSumArticlePublishedUser</report>
+            <report>APXSK_Knowledge_Reports/APXSKSumArticlePublishedUser</report>
             <showPercentage>false</showPercentage>
             <showValues>false</showValues>
             <sortBy>RowValueDescending</sortBy>
@@ -76,7 +76,7 @@
             <header>Author Ranked by Number Published</header>
             <legendPosition>Bottom</legendPosition>
             <maxValuesDisplayed>10</maxValuesDisplayed>
-            <report>SK__APXSK_Knowledge_Reports/SK__APXSKSumArticleCreator</report>
+            <report>APXSK_Knowledge_Reports/APXSKSumArticleCreator</report>
             <showPercentage>false</showPercentage>
             <showValues>false</showValues>
             <sortBy>RowValueDescending</sortBy>
